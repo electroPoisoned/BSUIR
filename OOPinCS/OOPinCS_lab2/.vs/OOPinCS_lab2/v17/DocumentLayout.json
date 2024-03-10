@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BSUIR\\OOPinCS\\OOPinCS_lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A598AA14-7392-4343-8199-77F6F4DB6C5C}|OOPinCS_lab2\\OOPinCS_lab2.vcxproj|D:\\BSUIR\\OOPinCS\\OOPinCS_lab2\\OOPinCS_lab2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A598AA14-7392-4343-8199-77F6F4DB6C5C}|OOPinCS_lab2\\OOPinCS_lab2.vcxproj|solutionrelative:OOPinCS_lab2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A598AA14-7392-4343-8199-77F6F4DB6C5C}|OOPinCS_lab2\\OOPinCS_lab2.vcxproj|D:\\BSUIR\\OOPinCS\\OOPinCS_lab2\\OOPinCS_lab2\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A598AA14-7392-4343-8199-77F6F4DB6C5C}|OOPinCS_lab2\\OOPinCS_lab2.vcxproj|solutionrelative:OOPinCS_lab2\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\BSUIR\\OOPinCS\\OOPinCS_lab2\\OOPinCS_lab2\\Source.cpp",
+              "RelativeDocumentMoniker": "OOPinCS_lab2\\Source.cpp",
+              "ToolTip": "D:\\BSUIR\\OOPinCS\\OOPinCS_lab2\\OOPinCS_lab2\\Source.cpp",
+              "RelativeToolTip": "OOPinCS_lab2\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-10T16:53:03.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.h",
+              "DocumentMoniker": "D:\\BSUIR\\OOPinCS\\OOPinCS_lab2\\OOPinCS_lab2\\Book.h",
+              "RelativeDocumentMoniker": "OOPinCS_lab2\\Book.h",
+              "ToolTip": "D:\\BSUIR\\OOPinCS\\OOPinCS_lab2\\OOPinCS_lab2\\Book.h",
+              "RelativeToolTip": "OOPinCS_lab2\\Book.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAG4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-10T16:51:00.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

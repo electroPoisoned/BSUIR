@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1edbd695-1a5f-4176-8119-8112a292f047" name="Changes" comment="13.02.24 20:21">
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/ipch/AutoPCH/5b6d150e1cc09274/SOURCE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/ipch/AutoPCH/5b6d150e1cc09274/SOURCE.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/Source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/Source.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.tlog/OOPinCS_lab1.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.tlog/OOPinCS_lab1.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/Source.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/Source.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/OOPinCS_lab1/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab1/x64/Debug/OOPinCS_lab1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/ipch/AutoPCH/8b576a7b27e24c9d/BOOK.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/ipch/AutoPCH/8b576a7b27e24c9d/BOOK.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/ipch/AutoPCH/b2094ad85077379d/SOURCE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/ipch/AutoPCH/b2094ad85077379d/SOURCE.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/Book.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/Book.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/Source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/Source.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/Book.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/Book.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.tlog/OOPinCS_lab2.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.tlog/OOPinCS_lab2.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/Source.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/Source.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/ipch/AutoPCH/23d15369292d380a/SOURCE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/ipch/AutoPCH/23d15369292d380a/SOURCE.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/Source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/Source.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/lab3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/lab3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/resultLab3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/resultLab3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.tlog/OOPinCS_lab3.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.tlog/OOPinCS_lab3.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/Source.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/Source.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/ipch/AutoPCH/472f55904192560b/SOURCE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/ipch/AutoPCH/472f55904192560b/SOURCE.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/Source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/Source.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/Source.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/Source.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../OOPinCS/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDT_lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDT_lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SDT_lab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SDT_lab5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BusStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BusStop.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2cEOgJgXyV7LqVuIR1b6oQ5fxgA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/BSUIR/SDT/SDT_lab6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "onboarding.tips.debug.path": "D:/BSUIR/SDT/SDT_lab6/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1edbd695-1a5f-4176-8119-8112a292f047" name="Changes" comment="" />
+      <created>1707673380617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707673380617</updated>
+      <workItem from="1708695121066" duration="371000" />
+    </task>
+    <task id="LOCAL-00001" summary="lab6">
+      <created>1707675715064</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707675715064</updated>
+    </task>
+    <task id="LOCAL-00002" summary="lab4">
+      <created>1707675828009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707675828009</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lab6">
+      <created>1707675884705</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707675884705</updated>
+    </task>
+    <task id="LOCAL-00004" summary="lab6">
+      <created>1707676028815</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707676028815</updated>
+    </task>
+    <task id="LOCAL-00005" summary="lab6">
+      <created>1707676033103</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707676033103</updated>
+    </task>
+    <task id="LOCAL-00006" summary="lab6">
+      <created>1707676626748</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707676626748</updated>
+    </task>
+    <task id="LOCAL-00007" summary="13.02.24 19:34">
+      <created>1707842103747</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707842103747</updated>
+    </task>
+    <task id="LOCAL-00008" summary="13.02.24 19:36">
+      <created>1707842166138</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707842166138</updated>
+    </task>
+    <task id="LOCAL-00009" summary="13.02.24 20:21">
+      <created>1707844923024</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707844923024</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab4" />
+    <MESSAGE value="lab6" />
+    <MESSAGE value="13.02.24 19:34" />
+    <MESSAGE value="13.02.24 19:36" />
+    <MESSAGE value="13.02.24 20:21" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.02.24 20:21" />
+  </component>
+</project>

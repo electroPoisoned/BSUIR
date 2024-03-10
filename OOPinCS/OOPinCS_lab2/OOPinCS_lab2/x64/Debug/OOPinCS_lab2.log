@@ -1,0 +1,2 @@
+﻿  Source.cpp
+D:\BSUIR\OOPinCS\OOPinCS_lab2\OOPinCS_lab2\Source.cpp(83,18): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.

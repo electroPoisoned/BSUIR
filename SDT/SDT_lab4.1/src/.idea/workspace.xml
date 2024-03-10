@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="371c9820-0398-4b97-86d1-8b45b5d0952a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/ipch/AutoPCH/5b6d150e1cc09274/SOURCE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab1/.vs/OOPinCS_lab1/v17/ipch/AutoPCH/5b6d150e1cc09274/SOURCE.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/ipch/AutoPCH/8b576a7b27e24c9d/BOOK.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/ipch/AutoPCH/8b576a7b27e24c9d/BOOK.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/ipch/AutoPCH/b2094ad85077379d/SOURCE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/.vs/OOPinCS_lab2/v17/ipch/AutoPCH/b2094ad85077379d/SOURCE.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/Book.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/Book.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/Source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/Source.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/Book.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/Book.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/Source.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/Source.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/OOPinCS_lab2/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab2/x64/Debug/OOPinCS_lab2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/ipch/AutoPCH/23d15369292d380a/SOURCE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/.vs/OOPinCS_lab3/v17/ipch/AutoPCH/23d15369292d380a/SOURCE.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/Source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/Source.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/lab3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/lab3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/resultLab3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/resultLab3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/Source.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/Source.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/OOPinCS_lab3/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab3/x64/Debug/OOPinCS_lab3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/ipch/AutoPCH/472f55904192560b/SOURCE.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/.vs/OOPinCS_lab4/v17/ipch/AutoPCH/472f55904192560b/SOURCE.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/Source.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/Source.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/Source.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/Source.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/OOPinCS_lab4/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../OOPinCS/OOPinCS_lab4/x64/Debug/OOPinCS_lab4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDT_lab4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SDT_lab4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDT_lab5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SDT_lab5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDT_lab6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../SDT_lab6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDT_lab6/src/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SDT_lab6/src/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SDT_lab6/src/BusStop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../SDT_lab6/src/BusStop.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2cVP45K8dJBMrJzSrkGn4PeU38a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="371c9820-0398-4b97-86d1-8b45b5d0952a" name="Changes" comment="" />
+      <created>1708193579435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708193579435</updated>
+    </task>
+    <servers />
+  </component>
+</project>

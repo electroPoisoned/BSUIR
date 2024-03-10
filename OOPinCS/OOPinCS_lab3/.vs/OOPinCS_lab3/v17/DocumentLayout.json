@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BSUIR\\OOPinCS\\OOPinCS_lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD3763E-2012-4333-A305-5E96CEBF47F7}|OOPinCS_lab3\\OOPinCS_lab3.vcxproj|D:\\BSUIR\\OOPinCS\\OOPinCS_lab3\\OOPinCS_lab3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFD3763E-2012-4333-A305-5E96CEBF47F7}|OOPinCS_lab3\\OOPinCS_lab3.vcxproj|solutionrelative:OOPinCS_lab3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD3763E-2012-4333-A305-5E96CEBF47F7}|OOPinCS_lab3\\OOPinCS_lab3.vcxproj|D:\\BSUIR\\OOPinCS\\OOPinCS_lab3\\OOPinCS_lab3\\lab3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CFD3763E-2012-4333-A305-5E96CEBF47F7}|OOPinCS_lab3\\OOPinCS_lab3.vcxproj|solutionrelative:OOPinCS_lab3\\lab3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab3.txt",
+              "DocumentMoniker": "D:\\BSUIR\\OOPinCS\\OOPinCS_lab3\\OOPinCS_lab3\\lab3.txt",
+              "RelativeDocumentMoniker": "OOPinCS_lab3\\lab3.txt",
+              "ToolTip": "D:\\BSUIR\\OOPinCS\\OOPinCS_lab3\\OOPinCS_lab3\\lab3.txt",
+              "RelativeToolTip": "OOPinCS_lab3\\lab3.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-11T11:46:27.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\BSUIR\\OOPinCS\\OOPinCS_lab3\\OOPinCS_lab3\\Source.cpp",
+              "RelativeDocumentMoniker": "OOPinCS_lab3\\Source.cpp",
+              "ToolTip": "D:\\BSUIR\\OOPinCS\\OOPinCS_lab3\\OOPinCS_lab3\\Source.cpp",
+              "RelativeToolTip": "OOPinCS_lab3\\Source.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-11T11:42:36.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
