@@ -18,22 +18,24 @@ public:
         : busNumber(busNumber), stopNumber(stopNumber+1), mtx(mtx), cv(cv), places(places) {}
 
     void operator()() {
-        std::unique_lock<std::mutex> lock(mtx);
-        cv.wait(lock, [this] { return places > 0; });
-        --places;
-        std::cout << "Bus " << busNumber << " stopped at stop " << stopNumber << std::endl;
-        lock.unlock();
-        std::this_thread::sleep_for(std::chrono::seconds(2));
-        lock.lock();
-        std::cout << "Bus " << busNumber << " left stop " << stopNumber << std::endl;
-        ++places;
-        cv.notify_one();
+        for (int i = 0; i < 3; i++) {
+            std::unique_lock<std::mutex> lock(mtx);
+            cv.wait(lock, [this] { return places > 0; });
+            --places;
+            std::cout << "\nBus " << busNumber << " stopped at stop " << stopNumber << std::endl;
+            lock.unlock();
+            std::this_thread::sleep_for(std::chrono::seconds(2));
+            lock.lock();
+            std::cout << "\nBus " << busNumber << " left stop " << stopNumber << std::endl;
+            ++places;
+            cv.notify_one();
+        }
     }
 };
 
 int main() {
     const int NUM_STOPS = 3;
-    const int NUM_BUSES = 20;
+    const int NUM_BUSES = 6;
     const int NUM_PLACES = 2;
 
     std::vector<std::thread> threads;
