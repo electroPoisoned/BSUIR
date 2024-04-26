@@ -1,8 +1,10 @@
 package AeroflotData;
 
 public enum PlaneType {
-    BOEING,
     AIRBUS,
-    TUPOLEV,
-    ILYUSHIN
+    BOEING,
+    ILYUSHIN,
+    SUKHOI,
+    TUPOLEV
+
 }

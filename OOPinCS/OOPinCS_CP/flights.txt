@@ -1,13 +1,13 @@
-Minsk,15,BOEING
-New York,6,BOEING
-London,35,AIRBUS
-Moscow,7,TUPOLEV
-Brest,22,ILYUSHIN
+Minsk,7,TUPOLEV
+Brest,1,BOEING
+Paris,15,ILYUSHIN
+Beijing,78,BOEING
 Madrid,14,AIRBUS
-Berlin,8,ILYUSHIN
-Paris,33,AIRBUS
-Oslo,78,TUPOLEV
-Minsk,13,TUPOLEV
-London,100,ILYUSHIN
-Washington,55,AIRBUS
-Beijing,123,TUPOLEV
+Berlin,54,BOEING
+Ottawa,32,AIRBUS
+Secret Military Base,51,ILYUSHIN
+London,444,AIRBUS
+Munchen,8,AIRBUS
+New York,9,AIRBUS
+Mexico,11,TUPOLEV
+Constantinople,1453,BOEING

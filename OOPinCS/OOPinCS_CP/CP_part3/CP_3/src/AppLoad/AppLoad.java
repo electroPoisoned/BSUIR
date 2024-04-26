@@ -1,11 +1,11 @@
 package AppLoad;
 
-import javax.swing.*;
+import AeroflotGUIService.AeroflotGUI;
 
-import static AeroflotGUIService.AeroflotGUI.*;
+import javax.swing.*;
 
 public class AppLoad {
     public static void main(String[] args) {
-        SwingUtilities.invokeLater(() -> createGUI());
+        SwingUtilities.invokeLater(AeroflotGUI::createGUI);
     }
 }

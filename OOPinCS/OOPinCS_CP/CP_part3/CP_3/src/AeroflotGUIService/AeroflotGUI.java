@@ -11,7 +11,7 @@ import java.util.Comparator;
 import java.util.Scanner;
 
 public class AeroflotGUI {
-    private static ArrayList<Aeroflot> aeroflots = new ArrayList<>();
+    private static ArrayList<Aeroflot> aeroflotList = new ArrayList<>();
     private static JFrame frame;
     private static JTable allFlightsTable;
     private static JTable searchResultsTable;
@@ -54,6 +54,7 @@ public class AeroflotGUI {
         buttonPanel.add(deleteButton);
 
         searchField = new JTextField(20);
+        searchField.setMaximumSize(new Dimension(Integer.MAX_VALUE, searchField.getPreferredSize().height));
         buttonPanel.add(searchField);
 
         JButton searchButton = new JButton("Search Flights");
@@ -104,7 +105,7 @@ public class AeroflotGUI {
             Aeroflot aeroflot = new Aeroflot(destinationField.getText(),
                     flightNumberField.getText(),
                     (PlaneType) planeTypeComboBox.getSelectedItem());
-            aeroflots.add(aeroflot);
+            aeroflotList.add(aeroflot);
             updateAllFlightsTable();
         }
     }
@@ -112,7 +113,7 @@ public class AeroflotGUI {
     private static void saveFlights() {
         try {
             PrintWriter writer = new PrintWriter("flights.txt", "UTF-8");
-            for (Aeroflot aeroflot : aeroflots) {
+            for (Aeroflot aeroflot : aeroflotList) {
                 writer.println(aeroflot.getDestination() + ","
                         + aeroflot.getFlightNumber() + ","
                         + aeroflot.getPlaneType());
@@ -133,7 +134,7 @@ public class AeroflotGUI {
                 String flightNumber = parts[1];
                 PlaneType planeType = PlaneType.valueOf(parts[2]);
                 Aeroflot aeroflot = new Aeroflot(destination, flightNumber, planeType);
-                aeroflots.add(aeroflot);
+                aeroflotList.add(aeroflot);
             }
             scanner.close();
             updateAllFlightsTable();
@@ -143,39 +144,54 @@ public class AeroflotGUI {
     }
 
     private static void sortFlights() {
-        aeroflots.sort(new Comparator<Aeroflot>() {
-            @Override
-            public int compare(Aeroflot o1, Aeroflot o2) {
-                return CharSequence.compare(o1.getDestination(), o2.getDestination());
-            }
-        });
-        updateAllFlightsTable();
+        String[] options = {"Destination", "Flight Number", "Plane Type"};
+        String input = (String) JOptionPane.showInputDialog(null, "Choose field to sort by",
+                "Sort Options", JOptionPane.QUESTION_MESSAGE, null, options, options[0]);
+
+        Comparator<Aeroflot> comparator = switch (input) {
+            case "Destination" -> Comparator.comparing(Aeroflot::getDestination);
+            case "Flight Number" -> Comparator.comparing(Aeroflot::getFlightNumber);
+            case "Plane Type" -> Comparator.comparing(Aeroflot::getPlaneType);
+            default -> null;
+        };
+
+        if (comparator != null) {
+            aeroflotList.sort(comparator);
+            updateAllFlightsTable();
+        }
     }
+
 
     private static void deleteFlight() {
         String flightNumber = JOptionPane.showInputDialog("Enter the flight number of the flight to delete:");
-        aeroflots.removeIf(aeroflot -> aeroflot.getFlightNumber().equals(flightNumber));
+        aeroflotList.removeIf(aeroflot -> aeroflot.getFlightNumber().equals(flightNumber));
         updateAllFlightsTable();
+        //updateSearchResultsTable();
     }
 
     private static void searchFlights() {
         String search = searchField.getText();
         ArrayList<Aeroflot> searchResults = new ArrayList<>();
-        for (Aeroflot aeroflot : aeroflots) {
+        for (Aeroflot aeroflot : aeroflotList) {
             if (aeroflot.getDestination().contains(search) ||
                     aeroflot.getFlightNumber().contains(search) ||
                     aeroflot.getPlaneType().toString().contains(search.toUpperCase())) {
                 searchResults.add(aeroflot);
             }
         }
-        updateSearchResultsTable(searchResults);
+        if (searchResults.isEmpty()) {
+            JOptionPane.showMessageDialog(frame, "FLIGHTS NOT FOUND!");
+        } else {
+            updateSearchResultsTable(searchResults);
+        }
     }
+
 
     private static void updateAllFlightsTable() {
         String[] columnNames = {"Destination", "Flight Number", "Plane Type"};
-        String[][] data = new String[aeroflots.size()][3];
-        for (int i = 0; i < aeroflots.size(); i++) {
-            Aeroflot aeroflot = aeroflots.get(i);
+        String[][] data = new String[aeroflotList.size()][3];
+        for (int i = 0; i < aeroflotList.size(); i++) {
+            Aeroflot aeroflot = aeroflotList.get(i);
             data[i][0] = aeroflot.getDestination();
             data[i][1] = aeroflot.getFlightNumber();
             data[i][2] = aeroflot.getPlaneType().toString();

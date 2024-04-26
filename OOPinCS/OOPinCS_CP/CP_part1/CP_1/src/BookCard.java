@@ -5,6 +5,7 @@ public class BookCard {
     private int publicationYear;
     private String BBK;
     private String comment;
+    private double rating;
 
     public BookCard(String author,
                     String title,
@@ -18,6 +19,17 @@ public class BookCard {
         this.publicationYear = publicationYear;
         this.BBK = BBK;
         this.comment = comment;
+    }
+
+    public double getRating() {
+        return rating;
+    }
+
+    public void setRating(double rating) {
+        if (rating < 0 || rating > 6) {
+            throw new IllegalArgumentException("Rating must be between 0 and 6");
+        }
+        this.rating = rating;
     }
 
     public String getAuthor() {
@@ -70,12 +82,13 @@ public class BookCard {
 
     @Override
     public String toString() {
-        return "\nBookCard{" +
-                "\nauthor:'" + author + '\'' +
-                "\ntitle:'" + title + '\'' +
-                "\npublishing:'" + publishing + '\'' +
-                "\npublicationYear:" + publicationYear +
-                "\nBBK " + BBK + "\n" +
-                '}';
+        return "BookCard{" +
+                "\nauthor='" + author + '\'' +
+                "\ntitle='" + title + '\'' +
+                "\npublishing='" + publishing + '\'' +
+                "\npublicationYear=" + publicationYear +
+                "\nBBK=<" + BBK + '>' +
+                "\nrating=" + rating +
+                "\n}\n";
     }
 }
